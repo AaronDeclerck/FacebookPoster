@@ -1,0 +1,7 @@
+C:\Users\Aaron\Documents\3AO\FacebookPoster.git\trunk\FacebookPoster\FacebookPoster\bin\FacebookPoster.dll
+C:\Users\Aaron\Documents\3AO\FacebookPoster.git\trunk\FacebookPoster\FacebookPoster\bin\FacebookPoster.pdb
+C:\Users\Aaron\Documents\3AO\FacebookPoster.git\trunk\FacebookPoster\FacebookPoster\bin\Facebook.dll
+C:\Users\Aaron\Documents\3AO\FacebookPoster.git\trunk\FacebookPoster\FacebookPoster\bin\Facebook.xml
+C:\Users\Aaron\Documents\3AO\FacebookPoster.git\trunk\FacebookPoster\FacebookPoster\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aaron\Documents\3AO\FacebookPoster.git\trunk\FacebookPoster\FacebookPoster\obj\Debug\FacebookPoster.dll
+C:\Users\Aaron\Documents\3AO\FacebookPoster.git\trunk\FacebookPoster\FacebookPoster\obj\Debug\FacebookPoster.pdb
