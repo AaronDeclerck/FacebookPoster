@@ -23,8 +23,8 @@ namespace FacebookPoster
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            var client = new FacebookClient("AAAD1aVeVJoABALR4ta2DhdDYzHknbeOnWdgiAXFg1KJHfsjqVnYdqVHrMZCEeSk6WiVbLg03jHe85tZAXYO3Uvcv1KRI4XvjabRGRAVgZDZD");
-            dynamic result = client.Post("me", new { message = "My first wall post using Facebook C# SDK" });
+            var client = new FacebookClient("AAAD1aVeVJoABAOtoDqFU9d4wZCCJ8ZCSFuOed0N6cYIcbfi32FYs6QURIRKDh92PvIIwGOSFbCcy6DgYrH2GZBwXGngu0LnwxD88wG9FwZDZD");
+            dynamic result = client.Post("me/feed", new { message = "My first wall post using Facebook C# SDK" });
             var newPostId = result.id;
         }
     }
